@@ -22,7 +22,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://github.com/Foxyor/Foxyor.Github.io/settings/pages](src)
+[Link](url) and ![Image](https://user-images.githubusercontent.com/76698186/163257880-4c41929c-1d65-4ff1-8b3e-e27b7c03dcfe.gif)
+
 
 ```
 
