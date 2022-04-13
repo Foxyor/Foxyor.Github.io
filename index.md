@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://user-images.githubusercontent.com/76698186/163257880-4c41929c-1d65-4ff1-8b3e-e27b7c03dcfe.gif)
+[Link](url) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFox&psig=AOvVaw1EMIgDrnOkrFkjnBnKkIKo&ust=1649965544564000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj_7ePmkfcCFQAAAAAdAAAAABAD)
 
 
 ```
